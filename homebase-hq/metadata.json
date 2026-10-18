@@ -1,0 +1,6 @@
+{
+  "name": "Homebase HQ",
+  "description": "Rental property management app with tenant onboarding, unit tracking, payment logging, printable receipts, automated reminders, maintenance tickets, and Google Drive cloud backup.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
